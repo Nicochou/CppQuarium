@@ -1,0 +1,2 @@
+D:\Etna\Cppquarium\Cppquarium\Debug\Cppquarium.exe
+D:\Etna\Cppquarium\Cppquarium\Debug\Cppquarium.pdb
